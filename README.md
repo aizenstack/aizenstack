@@ -39,5 +39,3 @@ I am a student at **SMKN 1 Pabelan**, majoring in **Software Engineering (RPL)**
 
 <img src="https://raw.githubusercontent.com/aizenstack/aizenstack/output/snake.svg" alt="Snake animation" />
 
-###
-
