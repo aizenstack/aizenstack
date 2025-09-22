@@ -1,7 +1,6 @@
 ## Hi there 👋, I'm Aizen | SMKN 1 Pabelan
 
 ### 👨‍🎓 About Me
-Saya adalah seorang siswa **SMKN 1 Pabelan** yang mengambil jurusan **Rekayasa Perangkat Lunak (RPL)**.  
 I am a student at **SMKN 1 Pabelan**, majoring in **Software Engineering (RPL)**.
 
 #### 🌱 What I'm Learning
