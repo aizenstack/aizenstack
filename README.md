@@ -16,23 +16,6 @@ I am a student at **SMKN 1 Pabelan**, majoring in **Software Engineering (RPL)**
 " /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 " />
 
-##### Connect With Me
-
-![https://instagram.com/aizendevxml](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.facebook.com/biannxml](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-) ![https://github.com/aizenstack](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-) ![https://www.tiktok.com/@zennwangie_](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
-)   
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aizenstack&show_icons=true&locale=en" alt="aizenstack" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aizenstack&" alt="aizenstack" /></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aizenstack/aizenstack/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aizenstack/aizenstack/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aizenstack/aizenstack/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
