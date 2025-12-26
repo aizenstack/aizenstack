@@ -8,8 +8,8 @@
 >
 > Seorang **Junior Developer** yang antusias dalam dunia Software Engineering. Saya fokus menulis kode yang **bersih, efisien, dan modern**. Selalu semangat mempelajari teknologi terbaru untuk menciptakan solusi digital yang bermanfaat. Saat ini, saya sedang aktif membangun berbagai proyek untuk mempertajam *skill* teknis dan logika pemrograman saya.
 
-### 🌐 Social Media
-<div align="start">
+###  Social Media
+<div align="left">
   <a href="https://www.linkedin.com/in/febrian-yosi-pangestu-16614635b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -47,14 +47,15 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=aizenstack&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-<img src="https://raw.githubusercontent.com/aizenstack/aizenstack/output/snake.svg" alt="Snake animation" />
+### Contribution Visualizations
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aizenstack/aizenstack/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aizenstack/aizenstack/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aizenstack/aizenstack/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aizenstack/aizenstack/output/pacman-contribution-graph.svg">
 </picture>
+
+<img src="https://raw.githubusercontent.com/aizenstack/aizenstack/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
