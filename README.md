@@ -4,7 +4,7 @@
 
 ![Aizen](img/header.png)
 
-> **Halo! Saya Febrian Yosi Pangestu** 👋
+> **Halo! Saya Aizen** 👋
 >
 > Seorang **Junior Developer** yang antusias dalam dunia Software Engineering. Saya fokus menulis kode yang **bersih, efisien, dan modern**. Selalu semangat mempelajari teknologi terbaru untuk menciptakan solusi digital yang bermanfaat. Saat ini, saya sedang aktif membangun berbagai proyek untuk mempertajam *skill* teknis dan logika pemrograman saya.
 
