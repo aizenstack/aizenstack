@@ -25,7 +25,7 @@
 ###  My Portfolio
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://febrianyosi.com)
-[![journey](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://journey.febrianyosi.com)
+[![journey](https://img.shields.io/badge/my_journey-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://journey.febrianyosi.com)
 ###  Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
